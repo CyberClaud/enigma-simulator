@@ -49,7 +49,7 @@ ENIGMA = Enigma(B, I, II, III, PB, KB)
 ENIGMA.set_rings((1,1,1))
 
 # Set Message Key
-ENIGMA.set_key("CAT")
+ENIGMA.set_key("FUN")
 
 """
 # Enicpher a message
