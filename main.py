@@ -95,15 +95,14 @@ while animating:
                 INPUT = INPUT + " "
                 OUTPUT = OUTPUT + " "
             elif event.key == pygame.K_BACKSPACE:
-                print(INPUT, OUTPUT)
                 INPUT = INPUT[:-1]
-                OUTPUT = OUTPUT[:-1]       
-                print(INPUT, OUTPUT)
+                OUTPUT = OUTPUT[:-1]      
             else: 
                 key = event.unicode
                 if key in "abcdefghijklmnopqrstuvwxyz":
                     letter = key.upper()
                     INPUT = INPUT + letter
                     PATH, cipher = ENIGMA.encipher(letter)
-                    print(PATH)
+                    # print(PATH)
                     OUTPUT = OUTPUT + cipher
+print("\n" + INPUT + "\n" + OUTPUT)
