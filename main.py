@@ -51,15 +51,6 @@ ENIGMA.set_rings((1,1,1))
 # Set Message Key
 ENIGMA.set_key("CAT")
 
-"""
-# Enicpher a message
-message = "TestingTestingTestingTesting".upper()
-cipher_text = ""
-for letter in message:
-    cipher_text = cipher_text + ENIGMA.encipher(letter)
-print(cipher_text)
-"""
-
 animating = True
 while animating:
 
