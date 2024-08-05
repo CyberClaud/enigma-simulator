@@ -39,7 +39,7 @@ To run this program, you'll need Python 3 installed on your machine. You can dow
 <!-- RUN -->
 ## Run program
 
-Navigate to the project directory (.../enigma-simulator/):
+Navigate to the project directory (enigma-simulator/):
 ```bash
 python3 main.py
 ```
