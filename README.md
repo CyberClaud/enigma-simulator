@@ -35,3 +35,13 @@ To run this program, you'll need Python 3 installed on your machine. You can dow
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- RUN -->
+## Run program
+
+Navigate to the project directory (.../enigma-simulator/):
+```bash
+python3 main.py
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
