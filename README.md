@@ -5,7 +5,7 @@
 
 This project is a Python program that simulates the workings of the Enigma machine, a cipher device used primarily by Nazi Germany during World War II. The Enigma machine allowed for complex enciphering and deciphering of messages using a series of rotors and a plugboard.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
 
 <!-- FEATURES -->
 ## Features
@@ -14,7 +14,7 @@ This project is a Python program that simulates the workings of the Enigma machi
 * Customizable rotor settings and plugboard configurations
 * Encoding and decoding of messages
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
 
 <!-- INSTALLATION -->
 ## Installation
@@ -34,7 +34,7 @@ To run this program, you'll need Python 3 installed on your machine. You can dow
     pip install -r requirements.txt
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
 
 <!-- RUN -->
 ## Run program
@@ -44,4 +44,4 @@ Navigate to the project directory (.../enigma-simulator/):
 python3 main.py
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"></p>
