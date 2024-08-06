@@ -21,7 +21,7 @@ This project is a Python program that simulates the workings of the Enigma machi
 
 To run this program, you'll need Python 3 installed on your machine. You can download Python from [python.org](https://www.python.org/).
 
-1. Clone this repository:
+1. Run terminal and clone this repository:
     ```bash
     git clone https://github.com/CyberClaud/enigma-simulator.git
     ```
